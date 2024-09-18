@@ -7,14 +7,20 @@ Enjoy!
 
 ![image](wallpaper.png)
 
-debian/ubuntu/mint
+debian base
 
 ```sh
-sudo apt install wine
+sudo apt install wine -y
 ```
 
-arch/manjaro/garuda
+arch base
 
 ```sh
 sudo pacman -Syu wine
+```
+
+fedora base
+
+```sh
+sudo dnf install wine -y
 ```
