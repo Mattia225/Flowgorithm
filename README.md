@@ -13,7 +13,7 @@ debian/ubuntu/mint
 sudo apt install wine
 ```
 
-arch/mangaro/garuda
+arch/manjaro/garuda
 
 ```sh
 sudo pacman -Syu wine
