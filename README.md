@@ -6,3 +6,8 @@ Flowgorithm don't require particular dependencies and is very easy to install an
 Enjoy!
 
 ![image](wallpaper.png)
+
+debian/ubuntu/mint
+sudo apt install wine 
+arch/mangaro/garuda
+sudo pacman -S wine
