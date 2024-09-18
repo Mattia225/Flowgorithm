@@ -16,7 +16,7 @@ sudo apt install wine -y
 arch base
 
 ```sh
-sudo pacman -Syu wine
+sudo pacman -Syu wine --noconfirm
 ```
 
 fedora base
