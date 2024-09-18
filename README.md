@@ -7,7 +7,7 @@ Enjoy!
 
 ![image](wallpaper.png)
 
-debian/ubuntu/mint
-sudo apt install wine 
-arch/mangaro/garuda
-sudo pacman -S wine
+debian/ubuntu/mint.
+sudo apt install wine. 
+arch/mangaro/garuda.
+sudo pacman -S wine.
