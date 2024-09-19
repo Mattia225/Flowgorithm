@@ -24,7 +24,3 @@ fedora base
 ```sh
 sudo dnf install wine -y
 ```
-bug fix wine mono
-```sh
-wget https://dl.winehq.org/wine/wine-mono/9.3.0/wine-mono-9.3.0-x86.msi && wine wine-mono-9.3.0-x86.msi
-```
