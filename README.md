@@ -24,3 +24,8 @@ fedora base
 ```sh
 sudo dnf install wine -y
 ```
+
+opensuse base
+```sh
+sudo zypper install wine
+```
