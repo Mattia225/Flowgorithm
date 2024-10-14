@@ -13,5 +13,5 @@ wine ~/wol/Flowgorithm/installer/"Flowgorithm Setup.msi"
 echo "The installer is finished"
 read -rsn1 -p"The installation is finished, Press any key to exit";echo
 echo clean up 
-rm -rf ~/wol/Flowgorithm
+rm -rf ~/wol
 exit
