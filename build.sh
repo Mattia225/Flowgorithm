@@ -9,7 +9,7 @@ mkdir ~/wol/Flowgorithm/installer
 echo "Unzipping Flowgorithm..."
 unzip ~/wol/Flowgorithm/g/Flowgorithm-Setup.zip -d ~/wol/Flowgorithm/installer
 echo "The installer is ready to run"
-wine ~/wol/Flowgorithm/installer/"Flowgorithm Setup.msi"
+wine ~/wol/Flowgorithm/installer/Flowgorithm-Installer.msi
 echo "The installer is finished"
 read -rsn1 -p"The installation is finished, Press any key to exit";echo
 echo clean up 
